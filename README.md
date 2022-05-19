@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm ./Zarel.IT</h1>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;N3WBI31+RelGanz;Nice+To+Meet+You+...&center=true"></a>
+
+
+<h2> Hi there, I'm ./Zarel.IT! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<img align='right' src="https://c.tenor.com/kOMxo1I4AV4AAAAC/darling-in-the-franxx-zero-two.gif" width="230">
+
 
 </p>
 <h1 align="center">★ You Crazy ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
@@ -12,21 +12,6 @@
 <li> Support <i> AuliaCans </i></li><br>
 <li> Panggilan <i> Zarel </i></li>
 <li> From <i> Bekasi </i></li><br>
-
-<!--
-**N3WBI31/N3WBI31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## ★ Github data ★
 >
