@@ -19,7 +19,7 @@
 >
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/N3WBI31 ) 
-[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/mr.bksmilenial) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6288210982908?text=Asalamualaikum+kak+Zarel)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/mr.bksmilenial) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6288210982908?text=Asalamualaikum+Zarel+Ganteng)
 ## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
 
