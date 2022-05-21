@@ -16,7 +16,7 @@
 <h1 align="center">★ AULIA INFO ★</i><b></h3>
 <li> Nickname: <i> Aulia </i></li>
 <li> Panggilan: <i> LiaWibu </i></li>
-<li> Pesan: <i> Jangan Semangat Jadi Lah Beban Kelaurga^_^ </i></li> 
+<li> Pesan: <i> Jangan Semangat Jadi Lah Beban Keluarga^_^ </i></li> 
 
 
 ## ★ Github data ★
