@@ -11,11 +11,6 @@
 <li> Support: <i> AuliaCans^_^ </i></li>
 <li> From: <i> Bekasi To Cyber </i></li>
 <li> Pesan: <i> GK CODING GK MAKAN </i></li>
-<h1 align="center">★ AULIA INFO ★</i><b></h3>
-<li> Nickname: <i> Aulia </i></li>
-<li> Panggilan: <i> LiaWibu </i></li>
-<li> Pesan: <i> Jangan Semangat Jadi Lah Beban Keluarga^_^ </i></li> 
-
 
 ## ★ Github data ★
 >
