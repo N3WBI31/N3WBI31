@@ -8,7 +8,6 @@
 <h1 align="center">★ MY INFO ★</i></b></h3>
 <li> Nickname: <i> MR.BksMilenial </i></li>
 <li> Panggilan: <i> Zarel </i></li>
-<li> Support: <i> AuliaCans^_^ </i></li>
 <li> From: <i> Bekasi To Cyber </i></li>
 <li> Pesan: <i> GK CODING GK MAKAN </i></li>
 
